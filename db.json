@@ -8,7 +8,7 @@
       "depart": "Jovem",
       "coord": "John e Anna",
       "team": "Ellen, Cleber, João e José",
-      "date": "01/05/22",
+      "date": "2022-05-01",
       "time": "19:00",
       "local": "Templo Principal"
     },
@@ -20,7 +20,7 @@
       "depart": "Mulheres",
       "coord": "Ana Maria",
       "team": "Sirlene, Claudia e Rute",
-      "date": "15/06/22",
+      "date": "2022-06-15",
       "time": "15:00",
       "local": "Salão do Templo Principal"
     },
@@ -32,7 +32,7 @@
       "depart": "Homens",
       "coord": "João Paulo",
       "team": "Pedro Paulo e Henquique ",
-      "date": "06/08/22",
+      "date": "2022-08-06",
       "time": "11:00",
       "local": "Salão do Templo Principal"
     },
@@ -44,7 +44,7 @@
       "depart": "Adolescente",
       "coord": "Ricardo e Julia",
       "team": "Perdo, João, Ana e Beatriz",
-      "date": "25/09/22",
+      "date": "2022-09-15",
       "time": "19:00",
       "local": "Templo Principal"
     },
@@ -56,8 +56,8 @@
       "depart": "Mulheres",
       "coord": "Ana Maria",
       "team": "Debora",
-      "date": "01/10/22",
-      "time": "7:30",
+      "date": "2022-10-11",
+      "time": "07:30",
       "local": "Templo Antigo"
     },
     {
@@ -68,7 +68,7 @@
       "depart": "Infantil",
       "coord": "Maria e João",
       "team": "Tia Ana, Tia Julia e Tia Rute",
-      "date": "08/10/22",
+      "date": "2022-10-08",
       "time": "14:00",
       "local": "Salão do Templo Antigo"
     }
