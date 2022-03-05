@@ -134,5 +134,21 @@
       "eventoId": 1,
       "id": 3
     }
+  ],
+  "users": [
+    {
+      "email": "membro@membro.com",
+      "password": "$2a$10$VnL8YLFb8dI/Z2E0wkNAFOUbqgxWjo0gV262cE0h1rLqcsqXeARXe",
+      "name": "Membro",
+      "type": 2,
+      "id": 1
+    },
+    {
+      "email": "admn@adm.com",
+      "password": "$2a$10$gMg3HL3bcR78PfEPgDXaFunLfg9wQVUo/.bp60u9wB47Yi3kfLH/y",
+      "name": "Administrador",
+      "type": 1,
+      "id": 2
+    }
   ]
 }
