@@ -112,29 +112,7 @@
       "local": "Salão do Templo Antigo"
     }
   ],
-  "inscriptions": [
-    {
-      "name": "João",
-      "email": "joao@joao.com",
-      "password": "123",
-      "eventoId": 1,
-      "id": 1
-    },
-    {
-      "name": "Renan",
-      "email": "renan_13rj@yahoo.com.br",
-      "password": "85522",
-      "eventoId": 6,
-      "id": 2
-    },
-    {
-      "name": "Renan",
-      "email": "renan_13rj@yahoo.com.br",
-      "password": "2258",
-      "eventoId": 1,
-      "id": 3
-    }
-  ],
+  "inscriptions": [],
   "users": [
     {
       "email": "membro@membro.com",
