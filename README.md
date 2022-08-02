@@ -121,6 +121,7 @@ ou
 yarn add
 yarn start
 ```
+Link do GitHub do Saint Manager: [Github](https://github.com/RenanRPaiva/Saint-Manager) 
 ## Usuários pré-cadastrados
 
 O banco de dados da API já conta com os seguintes usuários de demonstração:
